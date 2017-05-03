@@ -7,7 +7,7 @@
       3. [Primeiras alterações](#Primeiras alterações)
       4. [Ops!](#Ops!)
       5. [Ignorar ficheiros](#Ignorar ficheiros)
-   2. [Gerar repositório local](#Gerar repositório local)
+   2.  [Gerar repositório local](#Gerar repositório local)
 2. [Em grupo](#Em grupo)
 3. [Interface](#Interface)
 
@@ -278,24 +278,15 @@ git tag
 
 As tags aparecem também marcadas como *branches*.
 
-
-## Github interface
-
-
-
-
-
-
-
 ## Curiosidades
 
-#### Submodulos
+#### Submódulos
 
-()
+Os submódulos permite ter um repositório git dentro de outro, ou seja, quando um projeto usa bibliotecas externas e o código fonte dessas bibliotecas é um repositório git, é possivel fazer a devida referência.
 
 #### .gitconfig
 
-
+O .gitconfig é um ficheiro que está na pasta raiz do utilizador e permite que sejam configurados vários parametros, tais como nome, email, editor de texto padrão, as cores e até *alias* para comandos que são mais longos. Um excelente exemplos pode ser encontrado [aqui](https://gist.github.com/pksunkara/988716). 
 
 
 
