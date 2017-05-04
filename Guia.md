@@ -9,7 +9,16 @@
       5. [Ignorar ficheiros](#Ignorar ficheiros)
    2.  [Gerar repositório local](#Gerar repositório local)
 2. [Em grupo](#Em grupo)
-3. [Interface](#Interface)
+   1. [Criar repositório](#Criar repositório)
+   2. [Primeiras alterações](#Primeiras alterações)
+   3. [Alterações seguintes](#Alterações seguintes)
+   4. [Colisões](#Colisões)
+   5. [Fila de produção](#Fila de produção)
+   6. [Descoberta preciosa](#Descoberta preciosa)
+   7. [Tags](#Tags)
+3. [Curiosidades](#Curiosidades)
+   1. [Submódulos](#Submódulos)
+   2. [.gitconfig](#.gitconfig)
 
 
 
@@ -286,7 +295,7 @@ Os submódulos permite ter um repositório git dentro de outro, ou seja, quando 
 
 #### .gitconfig
 
-O .gitconfig é um ficheiro que está na pasta raiz do utilizador e permite que sejam configurados vários parametros, tais como nome, email, editor de texto padrão, as cores e até *alias* para comandos que são mais longos. Um excelente exemplos pode ser encontrado [aqui](https://gist.github.com/pksunkara/988716). 
+O .gitconfig é um ficheiro que está na pasta raiz do utilizador e permite que sejam configurados vários parametros, tais como nome, email, editor de texto padrão, as cores e até *alias* para comandos que são mais longos. Um excelente exemplos pode ser encontrado em [https://gist.github.com/pksunkara/988716](https://gist.github.com/pksunkara/988716). 
 
 
 
